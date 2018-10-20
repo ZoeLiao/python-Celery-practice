@@ -11,3 +11,9 @@ How to use?
 6.window 1: redis-cli  
 7.window 2: celery -A proj worker -l info  
 8.window 3: run python3 and import proj.tasks
+
+Example
+---
+1.proj: basic 
+2.proj\_beat: use beat
+3.proj\_log: use log
