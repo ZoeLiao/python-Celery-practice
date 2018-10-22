@@ -14,6 +14,6 @@ How to use?
 
 Example
 ---
-1.proj: basic 
-2.proj\_beat: use beat
-3.proj\_log: use log
+1.proj: basic   
+2.proj\_beat: use beat  
+3.proj\_log: use log  
